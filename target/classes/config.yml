@@ -1,0 +1,8 @@
+# NukePlugin Configuration
+allowed-players:
+  - ExamplePlayer1
+  - ExamplePlayer2
+
+# Game Rules
+tnt-damage: 10
+no-explosion-damage: false

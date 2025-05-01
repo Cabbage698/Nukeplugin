@@ -1,0 +1,13 @@
+name: NukePlugin
+version: '1.0'
+main: com.cabbage.nukeplugin.NukePlugin
+api-version: '1.21'
+commands:
+  fire:
+    description: Launch a nuke or stab attack
+    usage: /fire <x> <y> <z> <payload> <fuse> <spacing> [rings] [tnt-per-ring]
+    permission: nukeplugin.fire
+
+  cabbage:
+    description: Plugin information and game rules
+    usage: /cabbage <credits|gamerules>

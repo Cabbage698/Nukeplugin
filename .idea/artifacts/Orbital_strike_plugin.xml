@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Orbital strike plugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/Orbital_strike_plugin</output-path>
+    <root id="archive" name="Orbital strike plugin.jar">
+      <element id="module-output" name="nuke-plugin" />
+    </root>
+  </artifact>
+</component>
